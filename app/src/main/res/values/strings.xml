@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParkiScan</string>
+    <string name="tagline">AI-Powered Parkinson Detection</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="send_to_doctor_label">Send to Doctor</string>
+</resources>

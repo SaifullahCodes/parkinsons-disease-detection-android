@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Gradient background for doctor module headers
+    Blue gradient from primary to light
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="135"
+        android:endColor="@color/colorPrimary"
+        android:startColor="#4CAF50"
+        android:type="linear" />
+</shape>

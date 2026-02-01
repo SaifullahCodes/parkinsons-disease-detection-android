@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "users": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      "$userId": {
+        ".read": "auth != null",
+        ".write": "$userId === auth.uid || (auth != null && root.child('users').child(auth.uid).child('role').val() === 'admin')"
+      },
+      ".indexOn": ["role"]
+    },
+    "reports": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      "$reportId": {
+        ".read": "auth != null",
+        ".write": "auth != null && (!data.exists() ? newData.child('patientId').val() === auth.uid : (data.child('patientId').val() === auth.uid || root.child('users').child(auth.uid).child('role').val() === 'admin'))"
+      }
+    },
+    "submissions": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      "$submissionId": {
+        ".read": "auth != null",
+        ".write": "auth != null && (!data.exists() ? newData.child('userId').val() === auth.uid : (data.child('userId').val() === auth.uid || root.child('users').child(auth.uid).child('role').val() === 'admin'))"
+      }
+    }
+  }
+}
