@@ -13,14 +13,14 @@ A Native Android Application designed for early detection of Parkinson’s Disea
 
 | Dashboard (Home) | AI Analysis Result | Risk Report (Result) |
 |:---:|:---:|:---:|
-| <img src="dashboard.jpeg" width="200"> | <img src="Ai_Result.jpg" width="200"> | <img src="Report_Result.jpg" width="200"> |
+| <img src="dashboard.jpeg" width="200"> | <img src="Ai_Result.jpeg" width="200"> | <img src="Report_Result.jpeg" width="200"> |
 
 ---
 
 ### 🏗️ System Architecture
 *(How the data flows from App to Cloud)*
 
-![System Architecture](architecture.jpg)
+![System Architecture](architecture.jpeg)
 
 ---
 
