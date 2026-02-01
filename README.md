@@ -20,7 +20,7 @@ A Native Android Application designed for early detection of Parkinson’s Disea
 ### 🏗️ System Architecture
 *(How the data flows from App to Cloud)*
 
-![System Architecture](architecture.jpeg)
+![System Architecture](architecture.png)
 
 ---
 
