@@ -13,7 +13,7 @@ A Native Android Application designed for early detection of Parkinson’s Disea
 
 | Dashboard (Home) | Gait Analysis (Video) | Risk Report (Result) |
 |:---:|:---:|:---:|
-| <img src="home.jpg" width="200"> | <img src="scan.jpg" width="200"> | <img src="result.jpg" width="200"> |
+| <img src="dashboard.jpg" width="200"> | <img src="scan.jpg" width="200"> | <img src="result.jpg" width="200"> |
 
 ---
 
