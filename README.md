@@ -24,12 +24,15 @@ A Native Android Application designed for early detection of Parkinson’s Disea
 
 ---
 
-### 🔗 Backend & Case Study
+### 🔗 Backend 
 
 🔹 **Backend API:** The Python logic is deployed on Render. You can view the API code here:  
 👉 **[View Python API Repository](https://github.com/SaifullahCodes/parkinson-api)**
 
-🔹 **Project Documentation:** 📄 **[Download Full Case Study PDF](Parkinson_Detection_System_Showcase.pdf)**
+### 📄 Project Documentation & Case Study
+The detailed technical documentation and research findings are available here:
+
+👉 **[Click to View / Download Full Case Study PDF](./Parkinson_Detection_System_Showcase.pdf)**
 
 ---
 
