@@ -34,7 +34,7 @@ A Native Android Application designed for early detection of Parkinson’s Disea
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** Native Android (Kotlin/Java), MVVM.
+- **Frontend:** Native Android (Java), MVVM.
 - **AI Models:** Google Gemini 1.5 Pro, MediaPipe Pose, Custom MLP (Audio).
 - **Backend:** Firebase Firestore, Flask API (Hosted on Render/HuggingFace).
 
