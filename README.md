@@ -32,7 +32,7 @@ A Native Android Application designed for early detection of Parkinson’s Disea
 ### 📄 Project Documentation & Case Study
 The detailed technical documentation and research findings are available here:
 
-👉 **[Click to View / Download Full Case Study PDF](./Parkinson_Detection_System_Showcase.pdf)**
+👉 **[Click to View / Download Full Case Study PDF](Parkinson_Detection_System_Showcase.pdf)**
 
 ---
 
