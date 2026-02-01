@@ -9,11 +9,11 @@ A Native Android Application designed for early detection of Parkinson’s Disea
 ---
 
 ### 📸 App Interface
-*(This is how the app looks)*
+*(Visual showcase of the application)*
 
-| Dashboard (Home) | Gait Analysis (Video) | Risk Report (Result) |
+| Dashboard (Home) | AI Analysis Result | Risk Report (Result) |
 |:---:|:---:|:---:|
-| <img src="dashboard.jpg" width="200"> | <img src="scan.jpg" width="200"> | <img src="result.jpg" width="200"> |
+| <img src="dashboard.jpeg" width="200"> | <img src="Ai_Result.jpg" width="200"> | <img src="Report_Result.jpg" width="200"> |
 
 ---
 
