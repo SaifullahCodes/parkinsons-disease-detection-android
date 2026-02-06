@@ -9,7 +9,7 @@
 
 ## 🎥 Watch The Demo
 Click the link below to see the app in action:
-### [▶️ Watch Full Video Demo on LinkedIn]https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-activity-7425179953442308097-Z6CJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHBEjwBPASBFcFFcSGa7o5LZRBOj-kC90M
+### [▶️ Watch Full Video Demo on LinkedIn](https://www.linkedin.com/posts/saifullahnaseerdev_finalyearproject-androiddev-roomdatabase-activity-7425179953442308097-Z6CJ)
 
 ---
 
